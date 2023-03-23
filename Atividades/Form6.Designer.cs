@@ -150,7 +150,7 @@
             // 
             textBox5.Location = new Point(372, 252);
             textBox5.Name = "textBox5";
-            textBox5.Size = new Size(21, 23);
+            textBox5.Size = new Size(87, 23);
             textBox5.TabIndex = 12;
             // 
             // label8
@@ -166,7 +166,7 @@
             // 
             textBox6.Location = new Point(372, 284);
             textBox6.Name = "textBox6";
-            textBox6.Size = new Size(21, 23);
+            textBox6.Size = new Size(87, 23);
             textBox6.TabIndex = 14;
             // 
             // Form6

@@ -33,6 +33,8 @@
             label2 = new Label();
             textBox2 = new TextBox();
             button1 = new Button();
+            label3 = new Label();
+            textBox3 = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -78,11 +80,29 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(361, 218);
+            label3.Name = "label3";
+            label3.Size = new Size(69, 15);
+            label3.TabIndex = 5;
+            label3.Text = "Preço final :";
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(436, 210);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(49, 23);
+            textBox3.TabIndex = 6;
+            // 
             // Form8
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox3);
+            Controls.Add(label3);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(label2);
@@ -101,5 +121,7 @@
         private Label label2;
         private TextBox textBox2;
         private Button button1;
+        private Label label3;
+        private TextBox textBox3;
     }
 }

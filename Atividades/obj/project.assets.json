@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\0058564\\.nuget\\packages\\": {}
+    "E:\\Users\\0058564\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0058564\\source\\repos\\Atividades\\Atividades\\Atividades.csproj",
+      "projectUniqueName": "E:\\Users\\0058564\\Source\\Repos\\C-atividades\\Atividades\\Atividades.csproj",
       "projectName": "Atividades",
-      "projectPath": "C:\\Users\\0058564\\source\\repos\\Atividades\\Atividades\\Atividades.csproj",
-      "packagesPath": "C:\\Users\\0058564\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0058564\\source\\repos\\Atividades\\Atividades\\obj\\",
+      "projectPath": "E:\\Users\\0058564\\Source\\Repos\\C-atividades\\Atividades\\Atividades.csproj",
+      "packagesPath": "E:\\Users\\0058564\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\0058564\\Source\\Repos\\C-atividades\\Atividades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\0058564\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "E:\\Users\\0058564\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

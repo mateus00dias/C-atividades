@@ -16,5 +16,33 @@ namespace Atividades
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double final, inicial, cont;
+            inicial = Double.Parse(textBox1.Text);
+            final = Double.Parse(textBox2.Text);
+            do
+            {
+                
+                if (inicial < 0 || inicial > final)
+                {
+                    MessageBox.Show(" A distancia inicial nn pode ser negativa e nem maior q a final ") ; 
+                    
+                }
+                else
+                {
+                   cont = (final - inicial) * 0.85 ;
+                   
+
+                }
+            } while (inicial < 0 || inicial > final);
+        }
     }
+    
 }

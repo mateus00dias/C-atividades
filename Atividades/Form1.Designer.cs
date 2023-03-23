@@ -91,6 +91,7 @@
             button5.TabIndex = 4;
             button5.Text = "button5";
             button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -101,6 +102,7 @@
             button6.TabIndex = 5;
             button6.Text = "button6";
             button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
             // 
             // button7
             // 
@@ -111,6 +113,7 @@
             button7.TabIndex = 6;
             button7.Text = "button7";
             button7.UseVisualStyleBackColor = false;
+            button7.Click += button7_Click;
             // 
             // button8
             // 
